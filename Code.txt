@@ -1,0 +1,1 @@
+public class JavaAssignment6Question3{    public void inflate(int psi)   {        System.out.println("Inflating to " + psi[] + "psi");    }}
